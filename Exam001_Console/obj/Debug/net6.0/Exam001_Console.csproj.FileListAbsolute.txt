@@ -1,0 +1,15 @@
+C:\Users\Julia\Documents\Exampl\Exam001_Console\bin\Debug\net6.0\Exam001_Console.exe
+C:\Users\Julia\Documents\Exampl\Exam001_Console\bin\Debug\net6.0\Exam001_Console.deps.json
+C:\Users\Julia\Documents\Exampl\Exam001_Console\bin\Debug\net6.0\Exam001_Console.runtimeconfig.json
+C:\Users\Julia\Documents\Exampl\Exam001_Console\bin\Debug\net6.0\Exam001_Console.dll
+C:\Users\Julia\Documents\Exampl\Exam001_Console\bin\Debug\net6.0\Exam001_Console.pdb
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\Exam001_Console.csproj.AssemblyReference.cache
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\Exam001_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\Exam001_Console.AssemblyInfoInputs.cache
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\Exam001_Console.AssemblyInfo.cs
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\Exam001_Console.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\Exam001_Console.dll
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\refint\Exam001_Console.dll
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\Exam001_Console.pdb
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\Exam001_Console.genruntimeconfig.cache
+C:\Users\Julia\Documents\Exampl\Exam001_Console\obj\Debug\net6.0\ref\Exam001_Console.dll
